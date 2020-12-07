@@ -1,0 +1,8 @@
+{
+	"Debug": true,
+	"LogDir": "./logs/center/",
+	"Refresh": 5,
+	"SvrAddr": ":20000",
+
+	"ProxyAddrs": ""
+}

@@ -1,0 +1,9 @@
+{
+	"SvrID": 101,
+	"Debug": true,
+	"LogDir": "./logs/world/",
+	"Refresh": 5,
+	"SvrAddr": ":21000",
+
+	"ProxyAddrs": "127.0.0.1:20000"
+}

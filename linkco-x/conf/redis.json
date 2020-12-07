@@ -1,0 +1,16 @@
+{
+    "account" : {
+      "Addr": "redis://127.0.0.1:6379",
+      "Password" : "",
+      "Database": 1,
+      "MaxActive": 10,
+      "MaxIdle" : 3
+    },
+    "user" : {
+      "Addr": "redis://127.0.0.1:6379",
+      "Password" : "",
+      "Database": 2,
+      "MaxActive": 10,
+      "MaxIdle" : 3
+    }
+}
